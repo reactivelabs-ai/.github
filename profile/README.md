@@ -1,3 +1,3 @@
-![Reactive Labs](banner.png?v=2026-11-24)
+![Reactive Labs](banner-2026-11-24.png)
 
 Building environments for professional work.
